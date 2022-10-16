@@ -2,7 +2,7 @@
 <h1>Short description of deep-learning model for image classification in Mixed Martial Arts</h1>
 
 First approach relates to recognition of ground fight, kicking or punching. Model achieved an accuracy at about 86%.<br>
-https://github.com/hamlet07/mma-model/blob/main/MateuszMaj_MMA_ComputerVision.pdf - presented during poster session at MLinPL'18 Conference in Warsaw.
+https://github.com/hamlet07/mma-model/blob/main/MateuszMaj_MMA_ComputerVision.pdf - presented during poster session at ML in PL '18 Conference in Warsaw.
 
 Second approach relates to recognition of 6 types of situations during MMA fights.<br>Solution presented during Ghost Day: Applied Machine Learning Conference '20.
 
