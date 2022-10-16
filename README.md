@@ -14,8 +14,6 @@ https://github.com/hamlet07/mma-model/blob/main/Slide_model_3.JPG - model's accu
 
 You can try the model on: https://zigyqrpvky.eu-west-1.awsapprunner.com/predict
 
-![My Image]([https://github.com/hamlet07/mma-model/blob/main/Screenshot%202022-10-16%2017.33.11.png)
-
 <img
   src="https://github.com/hamlet07/mma-model/blob/main/Screenshot%202022-10-16%2017.33.11.png"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
