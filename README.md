@@ -1,5 +1,5 @@
 # mma-model
-<h1>Short description of deep-learning model for image classification in Mixed Martial Arts</h1>
+<b>Deep-learning model for image classification in Mixed Martial Arts</b>
 
 First approach relates to recognition of ground fight, kicking or punching. Model achieved an accuracy at about 86%.<br>
 https://github.com/hamlet07/mma-model/blob/main/MateuszMaj_MMA_ComputerVision.pdf - presented during poster session at ML in PL '18 Conference in Warsaw.
@@ -12,7 +12,7 @@ https://github.com/hamlet07/mma-model/blob/main/Slide_model_2.JPG - choice of mo
 
 https://github.com/hamlet07/mma-model/blob/main/Slide_model_3.JPG - model's accuracy
 
-<h3>You can try the model on: https://zigyqrpvky.eu-west-1.awsapprunner.com/predict</h3>
+<b>You can try the model on: https://zigyqrpvky.eu-west-1.awsapprunner.com/predict</b>
 
 <img
   src="https://github.com/hamlet07/mma-model/blob/main/Screenshot.png"
